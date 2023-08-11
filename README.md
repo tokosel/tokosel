@@ -1,4 +1,4 @@
-### Hi there, I'm Abdoulaye SALL - aka [TokoDev][github] 👋
+### Hi there, I'm Abdoulaye SALL - aka [tokosel][github] 👋
 <h3>A passionate frontend developer , backend developer and apps</h3>
 
 - 🔭 I’m currently working on **Angular**
