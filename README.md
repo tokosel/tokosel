@@ -1,10 +1,10 @@
-### Hi there, I'm Abdoulaye SALL - aka [tokosel][github] 👋
-<h3>A passionate frontend developer , backend developer and apps</h3>
+### Hi there, I'm Abdoulaye SALL - aka [Tokosel][github] 👋
+<h3>A passionate frontend developer , data enthusiast</h3>
 
-- 🔭 I’m currently working on **Angular**
-- 👯 I’m looking to collaborate on **Symfony/ApiPlatform**
+- 🔭 I’m currently working on **Front end developement**
+- 👯 I’m looking to collaborate on **Frond end projects**
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source front projects
 - ⚡ Fun fact: i like to code again and again 🤣🤣🤣
 
 ### Connect with me:
@@ -50,6 +50,7 @@
 <a href="https://github.com/tokoodev/gestion-biens">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tokoodev&repo=gestion-biens&theme=dark" />
 </a>
+
 [website]: tokodev.sn
 [facebook]: https://www.facebook.com/tokosel
 [twitter]: https://twitter.com/Abdoula46100171
