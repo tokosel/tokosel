@@ -31,8 +31,8 @@
 <br />
 <br />
 ### Statistiques:
-<a href="https://github.com/tokosel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokosel&theme=dark&hide_langs_below=1" />
+<a href="https://github.com/tokoodev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokoodev&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/tokosel">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tokosel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
