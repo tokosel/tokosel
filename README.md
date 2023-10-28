@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on **Front end developement**
 - 👯 I’m looking to collaborate on **Frond end projects**
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Contribute more to Open Source front projects
 - ⚡ Fun fact: i like to code again and again 🤣🤣🤣
 
 ### Connect with me:
