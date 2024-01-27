@@ -1,8 +1,7 @@
 ### Hi there, I'm Abdoulaye SALL - aka [Tokosel][github] 👋
 <h3>A passionate Front end developer , data enthusiast</h3>
 
-- 🔭 I’m currently working on **Front end developement**
-- 👯 I’m looking to collaborate on **Frond end projects**
+- 🔭 I’m currently working on **Front end developement and data analysis**
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: i like to code again and again 🤣🤣🤣
 
