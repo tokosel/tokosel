@@ -1,7 +1,6 @@
 ### Hi there, I'm Abdoulaye SALL - aka [Tokosel][github] 👋
 <h3>A passionate Front end developer , data enthusiast</h3>
 
-- 🔭 I’m currently working on **Front end developement and data analysis**
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: i like to code again and again 🤣🤣🤣
 
@@ -14,7 +13,6 @@
 
 <br />
 
-[website]: tokodev.sn
 [facebook]: https://www.facebook.com/tokosel
 [twitter]: https://twitter.com/Abdoula46100171
 [instagram]: https://www.instagram.com/tokosel_/
