@@ -1,4 +1,4 @@
-### Hi there, I'm Abdoulaye SALL - aka [Tokosel][github] 👋
+### Hi there, I'm Abdoulaye SALL 👋
 <h3>A passionate Front end developer , data enthusiast</h3>
 
 - 🌱 I’m currently learning everything 🤣
