@@ -65,13 +65,3 @@ Ce compte regroupe mes projets personnels et mes expérimentations : analyse de 
 | Machine learning | Classification, détection d'anomalies, modèles de prédiction sur données clients |
 
 ---
-
-## Statistiques
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tokosel&show_icons=true&hide_border=true&count_private=true" alt="Statistiques GitHub">
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokosel&layout=compact&hide_border=true&langs_count=8" alt="Langages les plus utilisés">
-</p>
